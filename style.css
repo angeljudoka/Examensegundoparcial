@@ -1,0 +1,15 @@
+# Examensegundoparcial
+segundo parcial examen
+#tabla{
+	text-align: center;
+	border-style: dashed;
+}
+#tabla tr:nth-child(even) td:nth-child(odd)
+{
+   background-color: red;
+  background: rgba(0,0,0,.4);
+}
+body{
+	text-align: center;
+}
+
